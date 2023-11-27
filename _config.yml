@@ -1,0 +1,19 @@
+title: x86ptr's Blog
+url: https://x86ptr.github.io
+baseurl: "/blog"
+
+author:
+  name: Mehdi Karimi
+  email: x86ptr@gmail.com
+
+description: >
+  Fascinating material on the internal workings of operating system, reverse engineering, fuzzing, and other captivating low-level topics.
+
+theme: minima
+
+header_pages:
+  - about.md
+
+minima:
+  skin: classic
+ 
